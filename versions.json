@@ -1,0 +1,80 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "patches": {},
+    "full": {
+      "Windows-x86_64": {
+        "file": "Z-Flow-Downloader-v1.0.0-Windows-x86_64.zip",
+        "sha256": "3c66991cfdd09af94f09701420dd2e297dd2c91ce7c72435f82588c544c089b1",
+        "size": 48171504
+      }
+    },
+    "source": {
+      "file": "Z-Flow-Downloader-v1.0.0-Source.zip",
+      "sha256": "f6c100e1947f182326776e68c37c27846481df956053bda4ea47e79862eeeccb",
+      "size": 11620676
+    }
+  },
+  "packs": {
+    "bili_pack": {
+      "version": "1.1.3",
+      "file": "bili_pack.zip",
+      "sha256": "20c4cfbe8d0ebc5143dd18a9b6bde91c2811e4e5f34b84f0e3e8220b74506c54",
+      "gdMinVersion": "1.0.0"
+    },
+    "bittorrent_pack": {
+      "version": "1.0.1",
+      "file": "bittorrent_pack.zip",
+      "sha256": "5d00b0c404358ef1d7f27a9159ca3f417aff7416d3972f93e23c7a0ece24a06c",
+      "gdMinVersion": "1.0.0"
+    },
+    "ed2k_pack": {
+      "version": "1.2.1",
+      "file": "ed2k_pack.zip",
+      "sha256": "ec0063fc8491ee29b82df64bd98307bebb71eba53c2c234c08f07e9341279f63",
+      "gdMinVersion": "1.0.0"
+    },
+    "ffmpeg_pack": {
+      "version": "1.0.1",
+      "file": "ffmpeg_pack.zip",
+      "sha256": "946f9059b70740fde2b65e74b7043d362bbfd19f6700281b166657b0e2629000",
+      "gdMinVersion": "1.0.0"
+    },
+    "ftp_pack": {
+      "version": "1.0.1",
+      "file": "ftp_pack.zip",
+      "sha256": "66dbe6fac9783cd59cb7fee2296f5ede288f2703aff95121138fb3f90e6469a4",
+      "gdMinVersion": "1.0.0"
+    },
+    "github_pack": {
+      "version": "1.0.0",
+      "file": "github_pack.zip",
+      "sha256": "1d1823281494fad9d5b104b489a1dbba8399957ea32ca39d24bb80f53447ad96",
+      "gdMinVersion": "1.0.0"
+    },
+    "http_pack": {
+      "version": "1.0.1",
+      "file": "http_pack.zip",
+      "sha256": "e6173e1fd02ace7d431713c53b25013a9579517e41ae196484115862d24ce235",
+      "gdMinVersion": "1.0.0"
+    },
+    "huggingface_pack": {
+      "version": "1.0.1",
+      "file": "huggingface_pack.zip",
+      "sha256": "f6b1b2efd12bac5da84e4dc1f2d07b13c507e625735c8da296b47cb69e576de9",
+      "gdMinVersion": "1.0.0"
+    },
+    "m3u8_pack": {
+      "version": "1.0.2",
+      "file": "m3u8_pack.zip",
+      "sha256": "47e4e08e91df16d84856d2c1fe8a6a084964c8b44cb753ecd903d75517c10be5",
+      "gdMinVersion": "1.0.0"
+    },
+    "yt_dlp_pack": {
+      "version": "1.2.1",
+      "file": "yt_dlp_pack.zip",
+      "sha256": "a9c2703a09e847e32a42e09e11dfd4573cbf79a96d7093bd297c4fece19493a6",
+      "gdMinVersion": "1.0.0"
+    }
+  }
+}
