@@ -1,87 +1,94 @@
 {
   "app": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "patches": {
       "Windows-x86_64": {
-        "from": "1.0.0",
-        "file": "patch-Windows-x86_64-1.0.0-to-1.0.1.hdiff",
-        "sha256": "3492db96db77262e7f674206de86b5c14178e6f9524deff6dc9217d3251e2f78",
-        "size": 5185998
+        "from": "1.0.1",
+        "file": "patch-Windows-x86_64-1.0.1-to-1.0.2.hdiff",
+        "sha256": "d0b8eb98b208ccdc4ee31905f6fdcb0dfd87c2ed7b27130eaaa13a2663463fb7",
+        "size": 5852939
       }
     },
     "full": {
       "Windows-x86_64": {
-        "file": "Z-Flow-Downloader-v1.0.1-Windows-x86_64.zip",
-        "sha256": "d5cd3fab7911781943ad7b0e6a4d233d129b868b2c9efc4b265078d39f375e90",
-        "size": 48183341
+        "file": "Z-Flow-Downloader-v1.0.2-Windows-x86_64.zip",
+        "sha256": "3d5e8a18d8abd59b63f7de233e92d2842fb1dad381b06cd5a4dbc6ae6d7039c4",
+        "size": 48514567
       }
     },
     "source": {
-      "file": "Z-Flow-Downloader-v1.0.1-Source.zip",
-      "sha256": "01431753bb01748892d56ee90fb66dce4560992641b80c3b53b297bd5c42fc24",
-      "size": 11634334
+      "file": "Z-Flow-Downloader-v1.0.2-Source.zip",
+      "sha256": "e7101b14787bf779f75473455265b7e7a54d7b0bba8356d179d8996d4bcdd911",
+      "size": 11641857
     }
   },
   "packs": {
     "bili_pack": {
       "version": "1.1.3",
       "file": "bili_pack.zip",
-      "sha256": "36c3288905c717eaa3d63c02f911d3f81b2937ea7617daece91c12e6526302fe",
+      "sha256": "fcdaab82d4a7d38458c53b7118331faabab206d551c3e2546049dffcf6d306c3",
       "gdMinVersion": "1.0.0"
     },
     "bittorrent_pack": {
       "version": "1.0.1",
       "file": "bittorrent_pack.zip",
-      "sha256": "e1bbb7b52af600e2b7ff4435d310e12f8df75adb81144f8fd8ad68f7033e469a",
+      "sha256": "7e00379dd1e27fddfc1995c20a64e3347ac6678bf559f944d9aa3887374d5f5a",
       "gdMinVersion": "1.0.0"
     },
     "ed2k_pack": {
       "version": "1.2.1",
       "file": "ed2k_pack.zip",
-      "sha256": "39c62eced8e94a0de10ce4f38afec4904c76e14d4ce6aa63d85b01898850ba7b",
+      "sha256": "f13970cae1b04d2a345200acac00dfffb14e45a507d2cbe4a8b195c61975b768",
       "gdMinVersion": "1.0.0"
     },
     "ffmpeg_pack": {
       "version": "1.0.1",
       "file": "ffmpeg_pack.zip",
-      "sha256": "31f4e26e05be8b8290b9da32bf131ef282519fff445dd311df7c2812eb8e1518",
+      "sha256": "ae89be601baa276b5da82f325f03361785a746995fbf2b46674249f3d84000ae",
       "gdMinVersion": "1.0.0"
     },
     "ftp_pack": {
       "version": "1.0.1",
       "file": "ftp_pack.zip",
-      "sha256": "bf23edf15aa55dbc075ed9888f4fa366847fa8e3650e6e87f57ace86403b7445",
+      "sha256": "93fb0ced6940162d2d0fabe86cea64cba574fc43117eba65ea88fa4f809f87bc",
       "gdMinVersion": "1.0.0"
     },
     "github_pack": {
       "version": "1.0.0",
       "file": "github_pack.zip",
-      "sha256": "e957463543ed52f1b97b50047be9d51132c70971bec74bb3df09c19fca0cc835",
+      "sha256": "511451f5dda8f53c0af0867ddb3f9c7edbb6d25c3bb99f16a7968ddb3cdd6165",
       "gdMinVersion": "1.0.0"
     },
     "http_pack": {
       "version": "1.0.1",
       "file": "http_pack.zip",
-      "sha256": "925f25c82599fcd6da5a866ac750708e743529a3be8dd200d97ec163932bd6e0",
+      "sha256": "3ca0d6356b0b6348d18ade9920d00ee88034ad00a57144843e67eaa5e818f106",
       "gdMinVersion": "1.0.0"
     },
     "huggingface_pack": {
       "version": "1.0.1",
       "file": "huggingface_pack.zip",
-      "sha256": "66bddb4789bc344f1a03c7a3aeab8284ee928a6f326f045398e9dbed0fac285e",
+      "sha256": "2274805c1fd825a458074059935f84a583b22370795114e25af8a24ed38b70e5",
       "gdMinVersion": "1.0.0"
     },
     "m3u8_pack": {
       "version": "1.0.2",
       "file": "m3u8_pack.zip",
-      "sha256": "5702dac1e2f6cc5ef76522f28c19caf5d382df24112e78e0e4e4823b3080aab1",
+      "sha256": "b11c1e04bcede63cffab9b85998d53c550bacad54e0a3687bc92a09471a25243",
       "gdMinVersion": "1.0.0"
     },
     "yt_dlp_pack": {
       "version": "1.2.1",
       "file": "yt_dlp_pack.zip",
-      "sha256": "bee293bd49d3242daf7e47323f7697e8edbeaddb3e7f386a3a83e33647958b74",
+      "sha256": "1c9cbaa2b47f9f23fa0022e8517c3a1a52f809694796f2f4ef7ced514ec425c4",
       "gdMinVersion": "1.0.0"
     }
+  },
+  "extension": {
+    "version": "2.2.0",
+    "file": "dist/extensions/Z-Flow-Downloader-Chrome-Extension-v2.2.0.zip",
+    "asset": "Z-Flow-Downloader-Chrome-Extension-v2.2.0.zip",
+    "sha256": "eca0507c7336cff4f6e7ae1e2a84349b967a712b503e1a7e93293cff81a3f2e8",
+    "size": 344634
   }
 }
