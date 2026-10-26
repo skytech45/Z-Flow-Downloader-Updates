@@ -1,86 +1,86 @@
 {
   "app": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "patches": {
       "Windows-x86_64": {
-        "from": "1.0.5",
-        "file": "patch-Windows-x86_64-1.0.5-to-1.0.6.hdiff",
-        "sha256": "65dbae231bada7ec13251d9a7617850190fa5da32d28217becc90473a970e9cc",
-        "size": 5202984
+        "from": "1.0.6",
+        "file": "patch-Windows-x86_64-1.0.6-to-1.0.7.hdiff",
+        "sha256": "188fe931ed2c6fd7afafb11cf9d43d621f1a7c1f3f80dc8541bc319f7333caa7",
+        "size": 1046102
       }
     },
     "full": {
       "Windows-x86_64": {
-        "file": "Z-Flow-Downloader-v1.0.6-Windows-x86_64.zip",
-        "sha256": "ce245878c4b246a881afd6067b0d670f556ebf6a2c7105f1ac533e5a8830214d",
-        "size": 48548852
+        "file": "Z-Flow-Downloader-v1.0.7-Windows-x86_64.zip",
+        "sha256": "c7978388180c4e90b25b31d8e0fe0aaa84883ecde6c43f78dd06effe7c2871c7",
+        "size": 48546740
       }
     },
     "source": {
-      "file": "Z-Flow-Downloader-v1.0.6-Source.zip",
-      "sha256": "0a893439ed8900bb827e77926ab2a1bdc6f9222511ba22e103ee1a2bb8a6a98c",
-      "size": 11651971
+      "file": "Z-Flow-Downloader-v1.0.7-Source.zip",
+      "sha256": "8519fe5a851ca10965e0aa621944bd033aa1b20ff9acb7698c1b6eaf5afc939e",
+      "size": 11652237
     }
   },
   "packs": {
     "bili_pack": {
       "version": "1.1.3",
       "file": "bili_pack.zip",
-      "sha256": "2fccaa85ac7cd0ec3bdadc41c3a13052b86d8a8ebce8023fb6422bb1cf667795",
+      "sha256": "544c3bd2687e69fb652012793d227e8ff482f9c73859f5b0e3d1a143efbd8ae2",
       "gdMinVersion": "1.0.0"
     },
     "bittorrent_pack": {
       "version": "1.0.1",
       "file": "bittorrent_pack.zip",
-      "sha256": "dd68345742d1bf098f2b707e69d8c37cb5bac24ce1cab4e2a4549df12651dba8",
+      "sha256": "479f6f5bd5a309cf4e6aa56be7f0825e6f7fc7fb34a300bdaa04485a659dee24",
       "gdMinVersion": "1.0.0"
     },
     "ed2k_pack": {
       "version": "1.2.1",
       "file": "ed2k_pack.zip",
-      "sha256": "84b3b9523dc75d67a7a8a19d2d3a41d61a32a0f75365efc3b9813a289b7bb92c",
+      "sha256": "1fa9986efc2abbf6a20955eaa310dce540a8f61db9ba2480cbad462731ac0aac",
       "gdMinVersion": "1.0.0"
     },
     "ffmpeg_pack": {
       "version": "1.0.1",
       "file": "ffmpeg_pack.zip",
-      "sha256": "659a0dbb49e9cd52abf4ff7c04fcc0a6f6f156bb9e9a30300f7a0cbf94c6d2fe",
+      "sha256": "2e6612a12f4c3921a1de65ec190a4131bd052dc60226c398dad9e36d1f6fa8bc",
       "gdMinVersion": "1.0.0"
     },
     "ftp_pack": {
       "version": "1.0.1",
       "file": "ftp_pack.zip",
-      "sha256": "25e27829c5315b902817976b2f426582bf8975d30a1f2ee87089d5ef3da96742",
+      "sha256": "feeb8a1584586b83980aebfeccf3c7cc0dc8d1e8ee97432b591a9e47847d54d6",
       "gdMinVersion": "1.0.0"
     },
     "github_pack": {
       "version": "1.0.0",
       "file": "github_pack.zip",
-      "sha256": "3a397383adbc92d0b118f29902a44221dda0c8335b9255609b5105bc540900ed",
+      "sha256": "8d73ac29256711ee7af281faca6d37c15300971270629aa91f120b5fb31add7d",
       "gdMinVersion": "1.0.0"
     },
     "http_pack": {
       "version": "1.0.1",
       "file": "http_pack.zip",
-      "sha256": "a792e78ea881a9a25ee0f1b629ab779316e41a4786dec9a91f4e9e8a8f9f8a6a",
+      "sha256": "c1daaf8f9b8f532b41daf64d7709271b70425f2be01f2170ca68b5538793921a",
       "gdMinVersion": "1.0.0"
     },
     "huggingface_pack": {
       "version": "1.0.1",
       "file": "huggingface_pack.zip",
-      "sha256": "643bb334e4b85524cd1d3fb39f45258f03ec7f12a0dda8b2c0bef65e2ba8b050",
+      "sha256": "e103b679421a5d84bb6a3f76f31eec8bac1c2614de3bd4aa663e11acc336a502",
       "gdMinVersion": "1.0.0"
     },
     "m3u8_pack": {
       "version": "1.0.2",
       "file": "m3u8_pack.zip",
-      "sha256": "348eeeef74c352a3a57425abf2972c767ba5d3690b646933a5d735b66e6337b9",
+      "sha256": "1d101bc3ecdfecfcbefbcdbec6dc82d1ec76a391bdeca3bb8405f3479c532b49",
       "gdMinVersion": "1.0.0"
     },
     "yt_dlp_pack": {
       "version": "1.2.1",
       "file": "yt_dlp_pack.zip",
-      "sha256": "6f08edd655d5b101caf3523092b24f235e9c6cd70fabf670ed16c23958dde523",
+      "sha256": "3a85a46cbab8f543da6de536e1e5ea193642e35df078519d3314b58e252b1ba4",
       "gdMinVersion": "1.0.0"
     }
   },
