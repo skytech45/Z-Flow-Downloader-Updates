@@ -1,79 +1,79 @@
 {
   "app": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "patches": {},
     "full": {
       "Windows-x86_64": {
-        "file": "Z-Flow-Downloader-v1.0.9-Windows-x86_64.zip",
-        "sha256": "86d1d9294681575e2a9c638e0c2289e1147ca9ec6d1a6dcf628615f4c130254b",
-        "size": 48547404
+        "file": "Z-Flow-Downloader-v1.0.10-Windows-x86_64.zip",
+        "sha256": "e831567f732ceeaac8cfd946b60ddfd4de9ee4c40b19433d8eb1b44a2b5aed22",
+        "size": 48711589
       }
     },
     "source": {
-      "file": "Z-Flow-Downloader-v1.0.9-Source.zip",
-      "sha256": "46faf0d4b4b6ae0156f94c68c205ae9e52ea24bfa9ba9b5e05286a6a3dfd91cd",
-      "size": 11677184
+      "file": "Z-Flow-Downloader-v1.0.10-Source.zip",
+      "sha256": "bb05335c552a50ca987d4d61368e032ac8900a10da8b0b0b7c65c10ad0fb52b0",
+      "size": 11732801
     }
   },
   "packs": {
     "bili_pack": {
       "version": "1.1.3",
       "file": "bili_pack.zip",
-      "sha256": "783037830d1a83658733f8c10a9125222f4eb0b112759bea32e7facad98c7721",
+      "sha256": "a68dbbfc3b4799ce088901c74990b35f66c65d557dbfe5829fe05cff8137c2f9",
       "gdMinVersion": "1.0.0"
     },
     "bittorrent_pack": {
       "version": "1.0.1",
       "file": "bittorrent_pack.zip",
-      "sha256": "098d1d145a3cd015ddb89e3ff0e0789c3f4460c28aa1255e394b6e60b18a3541",
+      "sha256": "0df2bf2355faea23d74426f994425ead55a5950dd35026143cd364ce664b521b",
       "gdMinVersion": "1.0.0"
     },
     "ed2k_pack": {
       "version": "1.2.1",
       "file": "ed2k_pack.zip",
-      "sha256": "337bbdb305c3ab95b3499a96de9a341511357205e0988127cc25f182803d7582",
+      "sha256": "bc450a865b2798abed8595753fd106873789cde1d4133e83654255883a4e7733",
       "gdMinVersion": "1.0.0"
     },
     "ffmpeg_pack": {
       "version": "1.0.1",
       "file": "ffmpeg_pack.zip",
-      "sha256": "9902e02838f7222777be93f784b5e3326aee9ecfac62ed3a0fc2cd4928b48386",
+      "sha256": "52d5473cda8bd6efc2fa0a45083427bd3b6147e190a0285980f465f08775cc3c",
       "gdMinVersion": "1.0.0"
     },
     "ftp_pack": {
       "version": "1.0.1",
       "file": "ftp_pack.zip",
-      "sha256": "6b892849168c5fef985bcc4d2328063b195de78ba29ad341d2cb7d2ba2a95140",
+      "sha256": "36980ce40c8dd9ddb48f0ea0372be847573b036a57bad6a44beeb63a9e4a7c32",
       "gdMinVersion": "1.0.0"
     },
     "github_pack": {
       "version": "1.0.0",
       "file": "github_pack.zip",
-      "sha256": "4b19f04805e57aa0c58d5c8287397b4958a3a7b2e377c05316be665cfd5b5edf",
+      "sha256": "dfaa3d0467af12a124c7e08d9b05ee9cc1794b6acb0e882d3a222beccd963f9e",
       "gdMinVersion": "1.0.0"
     },
     "http_pack": {
       "version": "1.0.1",
       "file": "http_pack.zip",
-      "sha256": "e1a9932b6db9847841c64d9922d1433e117010a4936134735165f0d24d2c20a4",
+      "sha256": "b675dc2fd5b2f5de9000d69f1d9eb4ec7854f6a58310ef6c80b07d0e2dc91273",
       "gdMinVersion": "1.0.0"
     },
     "huggingface_pack": {
       "version": "1.0.1",
       "file": "huggingface_pack.zip",
-      "sha256": "62ad4e7bf20fc8560343cd686efcba555293c49ed7f116c9d069b9b905238236",
+      "sha256": "17da64a454ad62564dc1f7b3b80a8180645f672e1abdb0f7d12590ba726a45e6",
       "gdMinVersion": "1.0.0"
     },
     "m3u8_pack": {
       "version": "1.0.2",
       "file": "m3u8_pack.zip",
-      "sha256": "cef4eae22183a5cfd33be19003bd9472159ceffaf635526299a2c23518947074",
+      "sha256": "70e1d5ea0c6a165eb7fcf9d69b169750a9cdd2fdac1f20b3731df70d7a0149fc",
       "gdMinVersion": "1.0.0"
     },
     "yt_dlp_pack": {
       "version": "1.2.1",
       "file": "yt_dlp_pack.zip",
-      "sha256": "99308a4ababe8138f37bc8f838c5fd42b398fed53e952ec50d9751776421f20b",
+      "sha256": "3be18558dc538ce04f997dbe862dc661e0554c678e3f3c14430658c374f7c529",
       "gdMinVersion": "1.0.0"
     }
   },
